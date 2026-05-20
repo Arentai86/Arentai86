@@ -19,9 +19,12 @@ Doctor-search assistance for Germany.
 MedZen helps people find relevant medical practices faster. It is not a diagnosis tool and does not replace professional medical advice.
 
 ### LifeZen
-AI guidance for better waste sorting.
+AI-assisted waste-sorting guidance for Germany.
 
-LifeZen helps people understand how to sort and dispose of waste more clearly — reducing confusion and supporting cleaner cities.
+LifeZen makes Mülltrennung simpler: take a photo of an item and get a clear recommendation for the right bin category. It is free on the App Store, has no advertising, no tracking, and is designed for practical everyday use.
+
+App Store: https://apps.apple.com/de/app/lifezen/id6760695188
+Support: https://github.com/Arentai86/lifezen-support
 
 ### OpenZen Studio
 AI-assisted CAD and product design workflows for macOS.
@@ -75,6 +78,8 @@ The OpenClaw for macOS and Hermes Agent for macOS launcher repositories were gen
 ## Links
 
 - Website: https://openzen.info
+- LifeZen: https://apps.apple.com/de/app/lifezen/id6760695188
+- LifeZen support: https://github.com/Arentai86/lifezen-support
 - HelpZen: https://apps.apple.com/de/app/helpzen/id6767995829
 - MedZen: https://apps.apple.com/de/app/medzen-arztsuche/id6767482076
 
