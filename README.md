@@ -9,9 +9,14 @@ OpenZen builds small, focused applications that turn complex everyday problems i
 ## What OpenZen builds
 
 ### HelpZen
-A privacy-first help navigator for people in Germany.
 
-HelpZen helps users find relevant social, government, emergency, and community support without getting lost in bureaucracy.
+Find the right help in Germany faster.
+
+HelpZen helps people discover nearby social and administrative support points — Tafeln, Jobcenter, Sozialämter, Wohngeldstellen, migration counselling, youth migration services, Caritas, Diakonie, AWO, DRK, and related services.
+
+- App Store: https://apps.apple.com/de/app/helpzen/id6767995829
+- Support: https://github.com/Arentai86/helpzen-support
+- Focus: Germany, multilingual orientation, no ads, no user account, no tracking
 
 ### MedZen
 Doctor-search assistance for Germany.
