@@ -16,7 +16,10 @@ HelpZen helps users find relevant social, government, emergency, and community s
 ### MedZen
 Doctor-search assistance for Germany.
 
-MedZen helps people find relevant medical practices faster. It is not a diagnosis tool and does not replace professional medical advice.
+MedZen helps people find relevant medical practices faster by specialty, postal code and optional location. It is multilingual and focused on contact organization: phone, email, route, website and practice details. It is not a diagnosis tool, not medical advice and not emergency help.
+
+App Store: https://apps.apple.com/de/app/medzen-arztsuche/id6767482076
+Support: https://github.com/Arentai86/medzen-support
 
 ### LifeZen
 AI-assisted waste-sorting guidance for Germany.
@@ -82,6 +85,7 @@ The OpenClaw for macOS and Hermes Agent for macOS launcher repositories were gen
 - LifeZen support: https://github.com/Arentai86/lifezen-support
 - HelpZen: https://apps.apple.com/de/app/helpzen/id6767995829
 - MedZen: https://apps.apple.com/de/app/medzen-arztsuche/id6767482076
+- MedZen support: https://github.com/Arentai86/medzen-support
 
 ## Contact
 
